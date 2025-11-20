@@ -1,8 +1,9 @@
-# Requirements for Render.com deployment - Simplified
+# Requirements for Render.com deployment
+setuptools>=65.0.0
+wheel
 flask
 opencv-python-headless
 ultralytics
 gunicorn
 numpy
 pillow
-
