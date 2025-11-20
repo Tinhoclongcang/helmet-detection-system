@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2025 Trường THCS Gò Đen
+
+Giấy phép được cấp miễn phí cho bất kỳ ai có được bản sao của phần mềm này
+và các tệp tài liệu liên quan (gọi chung là "Phần mềm"), để xử lý Phần mềm 
+mà không bị hạn chế, bao gồm nhưng không giới hạn quyền sử dụng, sao chép, 
+sửa đổi, hợp nhất, xuất bản, phân phối, cấp phép con và/hoặc bán các bản 
+sao của Phần mềm, và cho phép những người được cung cấp Phần mềm làm như vậy, 
+theo các điều kiện sau:
+
+Thông báo bản quyền ở trên và thông báo giấy phép này phải được bao gồm 
+trong tất cả các bản sao hoặc phần đáng kể của Phần mềm.
+
+PHẦN MÀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG CÓ BẤT KỲ BẢO ĐẢM NÀO, 
+RÕ RÀNG HAY NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN CÁC BẢO ĐẢM VỀ KHẢ NĂNG 
+THƯƠNG MẠI HÓA, SỰ PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM. 
+TRONG BẤT KỲ TRƯỜNG HỢP NÀO, CÁC TÁC GIẢ HOẶC CHỦ SỞ HỮU BẢN QUYỀN SẼ 
+KHÔNG CHỊU TRÁCH NHIỆM ĐỐI VỚI BẤT KỲ YÊU CẦU BỒI THƯỜNG, THIỆT HẠI 
+HOẶC TRÁCH NHIỆM PHÁP LÝ KHÁC, DÙ TRONG HỢP ĐỒNG, VI PHẠM HAY CÁCH KHÁC, 
+PHÁT SINH TỪ, NGOÀI HAY LIÊN QUAN ĐỀN PHẦN MÀM HOẶC VIỆC SỬ DỤNG HOẶC 
+CÁC GIAO DỊCH KHÁC TRONG PHẦN MỀM.
+
+---
+
+ĐẶC BIỆT LƯU Ý:
+
+1. Phần mềm này được phát triển cho mục đích giáo dục và an toàn giao thông.
+
+2. Người sử dụng phải tuân thủ các quy định về bảo vệ dữ liệu cá nhân 
+   và quyền riêng tư theo pháp luật Việt Nam.
+
+3. Không sử dụng phần mềm cho các mục đích vi phạm pháp luật hoặc 
+   xâm phạm quyền riêng tư của cá nhân.
+
+4. Các model AI (best.pt, yolov8n.pt) có thể có giấy phép riêng 
+   từ các tác giả gốc.
